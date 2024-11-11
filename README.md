@@ -9,8 +9,8 @@ Relevant libraries and dependencies (if applicable) should be installed.
 
 # Clone the Repository:
 ```
-git clone https://github.com/AryanJ2004/DSL-SE-2019-Pattern.git
-cd DSL-SE-2019-Pattern
+git clone https://github.com/AryanJ2004/CG-SE-2019-Pattern.git
+cd CG-SE-2019-Pattern
 ```
 Open the Code Files: Use your preferred IDE to open the code files and explore the implementation. <br>
 Compile and Run: Follow the instructions provided in each code file or the documentation to compile and run the programs.
